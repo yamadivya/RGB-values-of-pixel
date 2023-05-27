@@ -1,1 +1,1 @@
-# RGB-values-of-pixel
+I have tried to find the RGB values and color of any pixel of an image using Python OpenCV. I am attaching my python file, image and csv file. The csv file is a dataset containing hexadecimal values, RGB values of different colors.
